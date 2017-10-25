@@ -1,3 +1,29 @@
-http://ajp.dickinson.edu/edpolicy.html
+http://ajp.dickinson.edu/edpolicy.html priorities
+  correctness
+  clarity (reader gets benefit of the doubt)
+  be of educational value first and foremost
+  retelling of existing documents not interesting
+  how to bring modern research/techniques into the classroom
+  suggest projects
+    analytic, numerical or data based
+  historical/cultural angle
+  new techniques or apparatus
+  new results is a minus
+  newly discovered isomorphisms are pluses
+
+
+
 http://ajp.dickinson.edu/Contributors/submissions.html
 
+http://asa.scitation.org/doi/abs/10.1121/1.409712
+
+searching "pitch detection" promising results
+  http://aapt.scitation.org/doi/full/10.1119/1.3226563
+  http://aapt.scitation.org/doi/abs/10.1119/1.18833
+  http://aapt.scitation.org/doi/full/10.1119/1.4991374
+  http://aapt.scitation.org/doi/abs/10.1119/1.19157
+  http://aapt.scitation.org/doi/abs/10.1119/1.1900105
+
+searching "guitar" promising results not found in "pitch detection"
+  http://aapt.scitation.org/doi/full/10.1119/1.4935088
+  http://aapt.scitation.org/doi/abs/10.1119/1.18833
