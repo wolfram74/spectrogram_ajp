@@ -19,10 +19,15 @@ http://asa.scitation.org/doi/abs/10.1121/1.409712
 
 searching "pitch detection" promising results
   http://aapt.scitation.org/doi/full/10.1119/1.3226563
+    non-ideal properties of fretted instruments
   http://aapt.scitation.org/doi/abs/10.1119/1.18833
+    commercial fft analysis of guitar and glockenspiel
   http://aapt.scitation.org/doi/full/10.1119/1.4991374
+    non-ideal properties of guitar string
   http://aapt.scitation.org/doi/abs/10.1119/1.19157
+    wavelet transform comments
   http://aapt.scitation.org/doi/abs/10.1119/1.1900105
+    using a webcam to detect infrared
 
 searching "guitar" promising results not found in "pitch detection"
   http://aapt.scitation.org/doi/full/10.1119/1.4935088

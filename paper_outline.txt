@@ -1,0 +1,20 @@
+Abstract:
+  contemporary microphones and web browsers provide a capable tool for audio signal processing
+introduction:
+  minor description of browsers, javascript
+  defense of utility of javascript despite it's lack of use in academic settings
+  quick description of basic analyses one can do with sound signals
+section 1:
+  brief description of what a fourier spectrum is
+  making a toy spectrometer with javascript and the browser
+  using it to see spectral differences in different instruments playing the same note
+  (featured example)
+section 2:
+  describing uses of fourier spectrum,
+    parseval's theorem and power
+  making a power graph of sound
+  talking about how power spectrum is calculated from fourier spectrum
+  (possible exploration in psychophysics where different pitches may seem louder despite equivalent power)
+conclusion
+  summarizing two toy analyses
+  suggest further examples
